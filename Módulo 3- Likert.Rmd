@@ -1,0 +1,101 @@
+---
+title: "Escala de LIkert"
+author: "Grupo Salvaje"
+date: "2024-05-22"
+output:
+  beamer_presentation: default
+  powerpoint_presentation: default
+  slidy_presentation: default
+---
+# ¿Qué es la Escala de Likert?
+La escala de likert es un método de investigación que utiliza una escala de calificación para conocer el nivel de acuerdo y desacuerdo de las personas sobre un tema. 
+
+Creada en 1932 por el psicólogo americano Rensis Likert, la escala pretende no limitar las respuestas a “sí” o “no”.
+
+# Escala de Likert
+
+![](hola.png)
+
+# ¿Cómo funciona?
+En la escala likert, el encuestado califica sus respuestas al “estar de acuerdo o no” con la situación. Por lo tanto, lo que esta escala determina es la conformidad de las personas y resulta útil cuando necesitas una opinión detallada sobre un tema en particular.
+
+La encuesta de Likert ofrece un resultado cualitativo, a pesar de fundarse en respuestas cuantitativas. 
+
+# Cómo aplicar: ejemplos de preguntas y respuestas para la encuesta likert
+
+Es muy importante para analizar las opiniones de los clientes para mejorar el servicio. Determinar qué tan satisfechos están con la atención al cliente, y con tus productos y servicios es un insumo invaluable para cualquier compañía.
+En estas ocasiones es cuando puedes aplicar la encuesta de Likert. 
+
+# Ejemplos
+
+1) Mensurar el nivel de satisfacción:
+
+Saber qué piensan tus clientes al respecto de la experiencia de compra – además de qué tan satisfechos están con tus productos – es importante para ayudarte a planear nuevas estrategias que garanticen esa conformidad. Ese tipo de feedback también es valioso a la hora de lanzar un nuevo producto o servicio al mercado.
+
+# Ejemplos de preguntas:
+
+¿Qué tan positiva fue su experiencia en nuestra tienda?
+
+Posibles respuestas: 
+
+--Muy positiva
+--Positiva
+--Neutro
+--Negativa
+--Muy negativa
+
+¿Qué tan satisfecho está con el producto?
+
+Posibles respuestas: 
+
+--Muy satisfecho
+--Satisfecho
+--Neutro
+--Poco satisfecho
+--No satisfecho
+
+# Como es?
+
+![](imagen.png.png)
+
+# Cómo transformar un problema cualitativo en uno cuantitativo?
+Transformar un problema cualitativo en cuantitativo implica convertir observaciones y datos no numéricos en datos numéricos que puedan ser analizados estadísticamente. Esto es particularmente relevante en la investigación social y de comportamiento, donde a menudo se necesita cuantificar percepciones, actitudes y opiniones. El Alfa de Cronbach es una medida comúnmente utilizada para evaluar la fiabilidad interna de un conjunto de ítems que se supone miden una misma variable o constructo. 
+
+# Pasos
+Definir el Problema y el Constructo:
+Identifica claramente el problema de investigación y el constructo que deseas medir.
+Desarrollar Ítems:
+Genera ítems (preguntas o afirmaciones) que representen diferentes aspectos. Estos ítems deben ser formulados de manera que los participantes puedan responder en una escala cuantitativa (por ejemplo, una escala Likert de 1 a 5).
+Recopilar Datos:
+Administra un cuestionario a una muestra representativa de tu población objetivo. Asegúrate de que las respuestas sean numéricas para facilitar el análisis cuantitativo.
+
+# Ejemplo de cuestionario
+
+Supongamos que estamos midiendo la satisfacción del cliente en una tienda de ropa. Algunas preguntas podrían ser:
+
+¿Qué tan satisfecho estás con la calidad de nuestros productos? (1 - Muy insatisfecho, 5 - Muy satisfecho)
+¿Qué tan satisfecho estás con el servicio al cliente? (1 - Muy insatisfecho, 5 - Muy satisfecho)
+¿Qué tan satisfecho estás con la relación calidad-precio? (1 - Muy insatisfecho, 5 - Muy satisfecho)
+
+# Cálculo de Alpha de Cronbach
+
+El Alpha de Cronbach se utiliza para evaluar la consistencia interna del cuestionario. Aquí tenemos los pasos para calcualrlo:
+
+-- Obtenemos todos los datos del cuestionario.
+-- Calcular la Varianza de cada item.
+-- Calcular la covarianza entra cada par de Cronbach.
+![Texto Alternativa](chau..png)
+
+# Interpretación del Alpha de Cronbach
+
+![Rangos](que.png)
+# Fuentes
+
+https://www.zendesk.com.mx/blog/que-es-escala-de-likert/
+https://berumen.com.mx/que-es-la-escala-de-likert/
+
+# Fin. 
+
+MUCHAS GRACIAS!
+
+
